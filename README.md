@@ -3,20 +3,26 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project consists of an examination at Hass Avocado sales by region, bag size, volume, and type.In the examination we use several strategies to determine which variables are more important to final average price
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>R Studio</b> 
 
-<h2>Environments Used </h2>
 
-- <b>R Studio</b> (21H2)
+<h2> Techniques Used </h2>
 
-<h2>Program walk-through:</h2>
+- <b> Dummy Variables</b> 
+- <b> Regularized Variables</b> 
+- <b> </b> (21H2)
+- <b></b> (21H2)
+
+<h2>R Visuals:</h2>
+
+
+<h2>Presentation Walkthrough:</h2>
 
 <p align="center">
 Launch the utility: <br/>
